@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I am Owen</h1>
-<h3 align="center">Information Systems Senior | Data & ML Enthusiast | Developer</h3>
+<h3 align="center">Information Systems Sophomore | Data & ML Enthusiast | Photographer | Late Learner</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -32,3 +32,14 @@
 <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
 
 ---
+### Connect with Me
+
+<a href="YOUR_LINKEDIN_URL" target="www.linkedin.com/in/owen-kurniawan-kartika-91a44b385">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="YOUR_INSTAGRAM_URL" target="[https://www.instagram.com/owen_kartika?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:owenkartika25@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
