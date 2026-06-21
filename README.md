@@ -34,8 +34,6 @@
 ---
 ### Connect with Me
 
-### Connect with Me
-
 <a href="www.linkedin.com/in/owen-kurniawan-kartika-91a44b385" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
