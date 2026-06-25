@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OWKA14&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -60,7 +60,7 @@
 ### Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/OWKA14/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/OWKA14/OWKA14/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
 
 ---
