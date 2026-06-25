@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=2196F3" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=OWKA14&style=for-the-badge&color=2196F3" alt="Profile Views" />
 </p>
 
 ---
@@ -47,8 +47,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OWKA14&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OWKA14&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@
 ### Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/OWKA14/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
 
 ---
